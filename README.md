@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2>Buenas, Bienvenido a mi perfil 👋 </h2>
+Soy un programador junior orientado principalmente al full stack.
+<br/>
+> Tratando de compartir entre los dos mundos de la programacion web.
 
 <!--
 **LilyisusUSACH/LilyisusUSACH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
