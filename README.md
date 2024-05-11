@@ -41,6 +41,8 @@ Me especializo en tecnologias como:
 
 <!-- Detalles de lo que se  -->
 <h2>Si quieres conocer a detalle las tecnologias que he usado</h2>
+<details>
+  <summary>Ver detalles</summary>
 
 <h3>Lenguajes conocidos:</h3>
 
@@ -91,7 +93,7 @@ Me especializo en tecnologias como:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
+</details>
 <!--
 **LilyisusUSACH/LilyisusUSACH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
