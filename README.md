@@ -2,7 +2,7 @@
 ## Buenas, Bienvenido a mi perfil 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/LilyisusUSACH?style=social&link=https%3A%2F%2Fgithub.com%2FLilyisusUSACH)](https://github.com/LilyisusUSACH)
-[![Static Badge](https://img.shields.io/badge/send_me-email-8A2BE2?logo=gmail&labelColor=white&link=alejandro.cortes.c%40usach.cl)](mailto:alejandro.cortes.c@usach.cl)
+[![Static Badge](https://img.shields.io/badge/send_me-email-8A2BE2?logo=gmail&labelColor=white&link=alejandro.cortes.c%40usach.cl)](mailto:alejandro16cortes@usach.cl)
 
 
 Soy ingeniero informatico y me desempeño como programador junior orientado al full stack.
